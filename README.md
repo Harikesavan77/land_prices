@@ -3,6 +3,8 @@
 
 To predict land prices in different locations within Chennai by the specified inputs.
 
+![Screenshot 2024-06-14 043645](https://github.com/Harikesavan77/land_prices/assets/120177130/4d8575fd-fc71-4fdb-af48-3d4801212a13)
+
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
