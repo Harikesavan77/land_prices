@@ -1,7 +1,7 @@
 
 # Land Price Prediction
 
-To predict land prices in different locations within Chennai by the specified inputs.
+To predict land prices in different locations within Chennai, gather data on relevant inputs like location, area, and amenities. Preprocess the data to handle missing values and normalize features. Train a regression model, such as a linear regression or neural network, using the processed data. Use the trained model to predict land prices based on the specified inputs.
 
 ![Screenshot 2024-06-14 043645](https://github.com/Harikesavan77/land_prices/assets/120177130/4d8575fd-fc71-4fdb-af48-3d4801212a13)
 
